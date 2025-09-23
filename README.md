@@ -15,10 +15,12 @@ It allows users to enter or paste text into a text area and instantly see the **
 
 ## 📂 Project Structure
 
-└── sathvik0912-word-counter/
-    ├── wordcounter/
-        └── src/
-            ├── module-info.java
-            └── wordcounter/
-                └── WordCounter.java
+sathvik0912-word-counter/
+├── wordcounter/
+│ └── src/
+│ ├── module-info.java
+│ └── wordcounter/
+│ └── WordCounter.java
+└── README.md
+
 ---
