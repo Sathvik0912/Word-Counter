@@ -22,3 +22,7 @@ sathvik0912-word-counter/
 │       └── wordcounter/
 │           └── WordCounter.java
 └── README.md
+```
+## Output: 
+![Alt text](Word Counter ScreecnShot.png)
+
