@@ -24,5 +24,5 @@ sathvik0912-word-counter/
 └── README.md
 ```
 ## Output: 
-![Word Counter Screenshot](Word-Counter/Word%20Counter%20ScreecnShot.png)
+![Word Counter Screenshot](Word-Counter/WordCounterScreecnShot.png)
 
